@@ -1,1 +1,1 @@
-# lectionscheats
+# combinatorics-cheatsheet
